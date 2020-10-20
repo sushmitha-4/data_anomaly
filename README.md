@@ -18,6 +18,8 @@
 #### <img src=https://github.com/sushmitha-4/data_anomaly/blob/main/data_anomaly/reports/figures/Result7.jpeg>
 
 ### Observation
+
+#### I've mentioned the Count of anomaly and nomal for both the menthods
 #### Type : Isolation forest
 #### Normal: 21561
 #### Anomoly: 1134
@@ -27,6 +29,9 @@
 #### Normal: 21617
 #### Anomoly: 1078
 
-
+#### As we can see One class SVM performed well than Isolation forest
+#### From graphs we can also say that system failure has occuring
+###### . First anomoly has occured during third week of December in 2015.
+###### . Second anomoly  and third anomoly has occured during second week of Januray in 2014.
 
 
