@@ -9,3 +9,4 @@
 
 #### I've applied anomaly detecting model on realKnownCause dataset "machine_temperature_system_failure.csv"
 
+#### <img src=https://github.com/sushmitha-4/data_anomaly/blob/main/data_anomaly/reports/figures/Result6.jpeg>
