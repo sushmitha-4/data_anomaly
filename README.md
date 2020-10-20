@@ -10,3 +10,9 @@
 #### I've applied anomaly detecting model on realKnownCause dataset "machine_temperature_system_failure.csv"
 
 #### <img src=https://github.com/sushmitha-4/data_anomaly/blob/main/data_anomaly/reports/figures/Result6.jpeg>
+
+## Feature Engineering
+
+#### Generated year,day,hour,day of the week,month,week number,time of day and season from timestmap
+
+#### <imr src="https://github.com/sushmitha-4/data_anomaly/blob/main/data_anomaly/reports/figures/Result7.jpeg">
