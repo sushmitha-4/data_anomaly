@@ -15,4 +15,4 @@
 
 #### Generated year,day,hour,day of the week,month,week number,time of day and season from timestmap
 
-#### <imr src=https://github.com/sushmitha-4/data_anomaly/blob/main/data_anomaly/reports/figures/Result7.jpeg>
+#### <img src=https://github.com/sushmitha-4/data_anomaly/blob/main/data_anomaly/reports/figures/Result7.jpeg>
