@@ -16,3 +16,17 @@
 #### Generated year,day,hour,day of the week,month,week number,time of day and season from timestmap
 
 #### <img src=https://github.com/sushmitha-4/data_anomaly/blob/main/data_anomaly/reports/figures/Result7.jpeg>
+
+### Observation
+#### Type : Isolation forest
+#### Normal: 21561
+#### Anomoly: 1134
+
+
+#### Type: ONE Class SVM :
+#### Normal: 21617
+#### Anomoly: 1078
+
+
+
+
